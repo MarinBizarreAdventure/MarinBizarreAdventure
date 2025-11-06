@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MarinBizarreAdventure/MarinBizarreAdventure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Salut, I'm Marin
 
-Here are some ideas to get you started:
+Software engineer wandering around
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<table>
+<tr>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarinBizarreAdventure&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=42A5F5&text_color=8E8E8E&icon_color=FFA116)
+
+</td>
+<td width="50%">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/marinbizarreadventure?theme=wtf&font=Karma&ext=heatmap&border=0)
+
+</td>
+</tr>
+</table>
+
+---
+
+[Telegram](https://t.me/marinnegai) | [LinkedIn](https://www.linkedin.com/in/marinnegai)
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad."* xD
+
+</div>
