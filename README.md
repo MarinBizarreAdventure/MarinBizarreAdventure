@@ -2,9 +2,11 @@
 
 ### Salut, I'm Marin
 
-Software engineer wandering around
+> Software engineer wandering around
 
 ---
+
+### GitHub Stats
 
 <table>
 <tr>
@@ -16,9 +18,12 @@ Software engineer wandering around
 <td width="50%">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/marinbizarreadventure?theme=dark&font=Karma&ext=heatmap&border=0)
+
 </td>
 </tr>
 </table>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarinBizarreAdventure&bg_color=101010&color=5cb85c&line=5cb85c&point=ffffff&area=true&hide_border=true)
 
 ---
 
