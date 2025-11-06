@@ -10,13 +10,12 @@ Software engineer wandering around
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarinBizarreAdventure&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=42A5F5&text_color=8E8E8E&icon_color=FFA116)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarinBizarreAdventure&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=101010&title_color=ffffff&text_color=ffffff&icon_color=5cb85c&ring_color=5cb85c)
 
 </td>
 <td width="50%">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/marinbizarreadventure?theme=wtf&font=Karma&ext=heatmap&border=0)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/marinbizarreadventure?theme=dark&font=Karma&ext=heatmap&border=0)
 </td>
 </tr>
 </table>
